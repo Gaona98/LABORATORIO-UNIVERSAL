@@ -1,0 +1,18 @@
+body{
+    background:#E5E7E9;
+    background-attachment: fixed;
+}
+
+
+
+#logo {
+   
+    background: #F8F9F9;
+    
+  }
+  #menu {
+    background: #E5E7E9 ;
+  }
+  #menu ul li:hover {
+    background: #F2F3F4;
+  }

@@ -1,0 +1,21 @@
+body{
+    background: #aed6f165;
+    background-attachment: fixed;
+}
+
+
+
+
+
+  #logo {
+   
+    background: #EBF5FB  ;
+    
+  }
+#menu {
+  background: #D6EAF8 ;
+}
+
+  #menu ul li:hover {
+    background: #E8F8F5;
+  }
